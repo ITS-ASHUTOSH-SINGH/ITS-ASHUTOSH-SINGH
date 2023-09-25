@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **singhashutoshz528@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/untold-ashutosh/](https://www.linkedin.com/in/untold-ashutosh/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mr-ashutosh-singh/](https://www.linkedin.com/in/mr-ashutosh-singh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
