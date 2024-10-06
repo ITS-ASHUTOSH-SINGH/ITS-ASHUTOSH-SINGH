@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Salesforce**
 
-- 🤝 I’m looking for help with **DSA, MERN STACK**
-
 - 💬 Ask me about **Mulesoft, DSA, SQL**
 
 - 📫 How to reach me **singhashutoshz528@gmail.com**
