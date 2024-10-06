@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/untold_ashu" target="blank"><img src="https://img.shields.io/twitter/follow/untold_ashu?logo=twitter&style=for-the-badge" alt="untold_ashu" /></a> </p>
 
-- 🔭 I’m currently working on **Omnifood Project**
+- 🔭 I’m currently working on **Mulesoft Project's**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Salesforce**
 
 - 🤝 I’m looking for help with **DSA, MERN STACK**
 
-- 💬 Ask me about **DSA, SQL, HTML, CSS, JS**
+- 💬 Ask me about **Mulesoft, DSA, SQL**
 
 - 📫 How to reach me **singhashutoshz528@gmail.com**
 
